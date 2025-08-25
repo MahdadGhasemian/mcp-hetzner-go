@@ -1,6 +1,11 @@
 # MCP Hetzner Go
 A Go Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API.
 
+## 🌟 Featured
+
+🎉 **Now part of the official [Awesome HCloud](https://github.com/hetznercloud/awesome-hcloud) list!**
+
+
 ## Using with Claude Desktop
 
 Create a file in ~/Library/Application Support/Claude/claude_desktop_config.json with the following contents:
